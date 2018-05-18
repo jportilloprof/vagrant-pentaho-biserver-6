@@ -26,7 +26,7 @@ Puedes modificatr tu **Vagrantfile** para aumentar la memoria, para la versión 
 
 No se activa el servicio por defecto:
 
-* vagrant ssh pentahobi6j8
+* vagrant ssh default
 * sudo -i
 * cd /opt/pentaho/biserver-ce/start-pentaho.sh 
 * ./start-pentaho.sh
