@@ -1,5 +1,5 @@
 ## vagrant-pentaho-biserver-6
-## Despliegue de pentaho Server BI con Java 8
+## Despliegue de pentaho BiServer-6 con Java 8
 
 * Ubuntu Xenial64
 * PostgreSQL 9.5
